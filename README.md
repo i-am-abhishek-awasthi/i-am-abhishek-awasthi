@@ -15,8 +15,8 @@ Welcome to my profile
 **i-am-abhishek-awasthi/i-am-abhishek-awasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning more about Data Science, AI, ML and building quality models/codes for the same.
-- 👯 I’m looking to collaborate with other Data Scientist's, 
+- 🌱 I’m currently working as a Data Scientist and exploring more about Data Science, AI, ML and building quality models/codes for the same.
+- 👯 I’m looking to collaborate with other Data Scientist's, AI ML Engineer's.
 - 💬 Ask me about Data Science, AI, ML
 
 **📫 Let's Connect:** 
